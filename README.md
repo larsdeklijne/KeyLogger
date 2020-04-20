@@ -1,3 +1,3 @@
 # KeyLogger
-KeyLogger in Python
-Works for Windows
+Basic keylogger in Python
+Still only works for Windows
